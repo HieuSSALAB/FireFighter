@@ -1,0 +1,21 @@
+Update 4.11.2024 by Dao To Hieu
+The activity dataset of firefighters is constructed to record and analyze their actions in the work environment. 
+This dataset includes 11 specific activity that reflect common activities during rescue operations and emergency responses.
+The data is collected using accelerometers and gyroscopes at a frequency of 100 Hz, with the devices positioned at the waist (mid-thigh/groin area).
+Sample: Timestamp,ax,ay,az,gx,gz;
++ Voluteens:12
++ Height: 1m65-1m8
++ Gender: Male
++ Weight: 60Kg-70Kg
+The recorded activity include:
+	Walking - Normal movement within the work area.
+	Jogging- Quick movement in emergency situations.
+	Standing - Maintaining position to observe or prepare for subsequent actions.
+	Lying- Resting or performing actions in a lying position.
+	Sitting - Carrying out work or resting in a sitting position.
+	Slithering- Moving close to the ground to avoid obstacles or smoke.
+	Crawling - Moving on the ground in a nearly lying position, often to enter tight spaces.
+	WalkStoop - Moving in a crouched position to pass over obstacles.
+	upstairs - Moving up steps in rescue situations.
+	downstairs - Moving down steps, often when needing to quickly exit a dangerous area.
+	Falling - Recording potential fall situations that may occur during duty
