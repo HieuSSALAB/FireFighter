@@ -1,0 +1,4 @@
+Model,Model Size (Bytes),Accuracy (%),Sensitivity (%),Specificity (%),Precision (%),Train F1 Micro (%),Test F1 Micro (%),Test F1 Macro (%),AUC (%)
+RF,348007,99.4,94.0,99.6,96.2,100.0,97.6,94.9,99.8
+XGBoost,217364,99.3,93.6,99.6,95.4,99.6,97.4,94.3,99.7
+LightGBM,491909,99.2,91.7,99.5,96.2,99.5,96.8,93.5,99.7
