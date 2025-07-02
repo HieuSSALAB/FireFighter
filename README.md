@@ -2,7 +2,7 @@
 The activity dataset of firefighters is constructed to record (sampling 100 HZ) and analyze their actions in the work environment.  This dataset includes 11 specific activity 
 Sensor: adxl345 + ITG3200
 Download dataset here: https://dx.doi.org/10.21227/9w3p-v638
-Link demo: https://youtu.be/nyeaBuKJ26k
+Link demo: https://youtu.be/S4hAzgEo-NA
                         switch (classIdx) {
                             case 0:
                             return "walking";
